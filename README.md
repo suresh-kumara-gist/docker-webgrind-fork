@@ -1,4 +1,4 @@
-[![GitHub Actions](https://github.com/dcycle/docker-jenkins/actions/workflows/config.yml/badge.svg)](../../actions/workflows/config.yml)
+[![GitHub Actions](https://github.com/dcycle/docker-webgrind/actions/workflows/config.yml/badge.svg)](../../actions/workflows/config.yml)
 
 
 Inspect XDebug profiling information with [webgrind](https://github.com/jokkedk/webgrind).
