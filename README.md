@@ -1,4 +1,5 @@
-[![CircleCI](https://circleci.com/gh/dcycle/docker-webgrind.svg?style=svg)](https://circleci.com/gh/dcycle/docker-webgrind)
+[![GitHub Actions](https://github.com/dcycle/docker-jenkins/actions/workflows/config.yml/badge.svg)](../../actions/workflows/config.yml)
+
 
 Inspect XDebug profiling information with [webgrind](https://github.com/jokkedk/webgrind).
 
